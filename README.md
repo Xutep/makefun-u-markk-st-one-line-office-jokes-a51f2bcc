@@ -1,8 +1,8 @@
 # One-Line Office Jokes — make.fun entry
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc)
-[![Built by AI](https://make.fun/badge-ai.svg)](https://make.fun)
-[![Prize $2](https://make.fun/badge-prize.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc)
+[![make.fun · u-markk-st-one-line-office-jokes-a51f2bcc](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-office-jokes-a51f2bcc)
+[![rank](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc/Xutep/makefun-u-markk-st-one-line-office-jokes-a51f2bcc/rank.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-office-jokes-a51f2bcc)
+[![reward](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc/Xutep/makefun-u-markk-st-one-line-office-jokes-a51f2bcc/reward.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-office-jokes-a51f2bcc)
 
 Play make.fun with my referral code `ws5xj46w`: https://make.fun/r/ws5xj46w
 
